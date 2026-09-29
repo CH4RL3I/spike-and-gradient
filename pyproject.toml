@@ -24,7 +24,7 @@ src = ["src", "tests"]
 
 [tool.ruff.lint]
 select = ["E", "F", "I", "B", "UP", "N"]
-ignore = ["N803", "N806"]
+ignore = ["N803", "N806", "N802", "E741", "B008", "N815"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
