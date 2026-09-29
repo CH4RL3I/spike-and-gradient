@@ -1,5 +1,7 @@
 # ml-from-scratch
 
+[![CI](https://github.com/CH4RL3I/ml-from-scratch/actions/workflows/ci.yml/badge.svg)](https://github.com/CH4RL3I/ml-from-scratch/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.11%2B-blue) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
 Linear regression, a biological neuron and a neural network, built from first principles in NumPy and checked against trusted references.
 
 Everything numerical is written by hand (QR solve, gradient descent, RK4 integration of the Hodgkin-Huxley equations, backpropagation, Adam). scikit-learn and SciPy appear only in the tests, as the reference to compare with. Runtime dependencies are NumPy and Matplotlib.
