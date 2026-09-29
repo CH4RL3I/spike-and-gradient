@@ -1,4 +1,4 @@
-"""ml-from-scratch: linear regression, a biological neuron and a neural network in NumPy."""
+"""spike-and-gradient: linear regression, a biological neuron and a neural network in NumPy."""
 
 import os
 

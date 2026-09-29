@@ -1,6 +1,6 @@
-# ml-from-scratch
+# spike-and-gradient: machine learning from first principles
 
-[![CI](https://github.com/CH4RL3I/ml-from-scratch/actions/workflows/ci.yml/badge.svg)](https://github.com/CH4RL3I/ml-from-scratch/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.11%2B-blue) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+[![CI](https://github.com/CH4RL3I/spike-and-gradient/actions/workflows/ci.yml/badge.svg)](https://github.com/CH4RL3I/spike-and-gradient/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.11%2B-blue) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
 Linear regression, a biological neuron and a neural network, built from first principles in NumPy and checked against trusted references.
 
